@@ -9,3 +9,4 @@ El proyecto tuvo como objetivo transformar los datos disponibles en información
 Durante el desarrollo surgieron diferentes desafíos relacionados con la preparación de los datos, el modelado, la creación de una tabla calendario, la construcción de medidas DAX y la adaptación de los requerimientos del proyecto a visualizaciones concretas.
 
 Este repositorio también documenta los problemas encontrados, las acciones realizadas para resolverlos y los aprendizajes obtenidos mediante un enfoque de **post-mortem constructivo**.
+
