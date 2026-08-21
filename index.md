@@ -24,6 +24,28 @@ El principal problema identificado fue haber comenzado a pensar en algunos indic
 
 
 ## Acciones
+Para resolver los desafíos encontrados se trabajó de manera progresiva, revisando cada etapa del proyecto antes de avanzar hacia la construcción final del dashboard.
+
+**1. Revisión y preparación de los datos.**
+Se revisó la información proveniente de Excel, identificando filas vacías y verificando la estructura de las tablas utilizadas. Esta etapa permitió trabajar posteriormente sobre una base más consistente.
+
+**2. Revisión del modelo de datos.**
+Se analizaron las diferentes tablas y sus relaciones para asegurar que la información pudiera utilizarse correctamente dentro del modelo de Power BI.
+
+**3. Creación de la tabla calendario.**
+Se incorporó una tabla calendario para disponer de una estructura temporal que permitiera analizar las ventas por períodos, especialmente por mes y año.
+
+**4. Construcción y comprensión de las medidas DAX.**
+Se desarrollaron las medidas necesarias para obtener indicadores como ventas, costos, rentabilidad y unidades vendidas. Durante esta etapa se priorizó comprender la lógica de cada cálculo en lugar de limitarse a reproducir fórmulas.
+
+**5. Construcción de las visualizaciones.**
+Una vez preparados los datos y los cálculos principales, se desarrollaron las visualizaciones necesarias para representar los indicadores y facilitar su interpretación.
+
+**6. Validación y ajustes.**
+Finalmente, se revisaron los resultados obtenidos y se realizaron ajustes en cálculos y visualizaciones para comprobar que la información presentada respondiera correctamente a los requisitos del proyecto.
+
+Este proceso permitió pasar de un enfoque inicial más orientado a construir rápidamente el dashboard a una metodología de trabajo más ordenada, donde cada etapa se valida antes de avanzar hacia la siguiente.
+
 
 ### Post-mortem constructivo
 
