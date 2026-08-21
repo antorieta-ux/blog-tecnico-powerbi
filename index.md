@@ -48,6 +48,40 @@ Este proceso permitió pasar de un enfoque inicial más orientado a construir r�
 
 
 ### Post-mortem constructivo
+El análisis posterior del proyecto permitió identificar que las dificultades encontradas no estuvieron relacionadas con un único error, sino con el **orden en el que se abordaron algunas etapas del desarrollo**.
+
+### Descripción del problema
+
+Durante las primeras etapas se comenzó a pensar en indicadores y visualizaciones mientras todavía se estaba consolidando la preparación de los datos, el modelo y algunos cálculos en DAX. Como consecuencia, fue necesario volver sobre etapas anteriores para realizar verificaciones y ajustes.
+
+### Causa raíz
+
+La principal causa identificada fue no haber definido desde el comienzo una secuencia suficientemente clara para desarrollar el proyecto. Antes de construir las visualizaciones era necesario completar y validar primero la preparación de los datos, el modelo de datos y las medidas que alimentarían los indicadores.
+
+### Impacto
+
+El principal impacto fue el **retrabajo**. Algunas decisiones tuvieron que revisarse a medida que se comprendía mejor la estructura de los datos y el funcionamiento de los cálculos. Si bien esto no impidió completar el proyecto, hizo que algunas etapas demandaran más tiempo del necesario.
+
+### Acciones correctivas
+
+Para resolver estas dificultades se revisaron los datos y sus relaciones, se incorporó una tabla calendario, se desarrollaron y verificaron las medidas DAX y posteriormente se ajustaron las visualizaciones de acuerdo con los resultados obtenidos.
+
+También se adoptó un enfoque orientado a comprender la lógica de los cálculos antes de utilizarlos, evitando depender únicamente de fórmulas sin comprender su funcionamiento.
+
+### Acciones preventivas
+
+Para futuros proyectos se estableció una secuencia de trabajo más ordenada:
+
+**Preparación de datos → Modelo de datos → Cálculos y medidas → Validación → Visualizaciones.**
+
+Además, se considera importante validar los resultados en cada etapa antes de avanzar a la siguiente y documentar los cambios relevantes durante el desarrollo.
+
+### Lección principal
+
+El principal aprendizaje fue comprender que un dashboard no comienza con los gráficos. La calidad de las visualizaciones depende de que los datos, el modelo y los cálculos que las sustentan sean correctos.
+
+El problema permitió transformar una forma de trabajo inicialmente orientada a obtener rápidamente un resultado visual en un proceso más estructurado, comprensible y reproducible.
+
 
 ## Aprendizajes
 
