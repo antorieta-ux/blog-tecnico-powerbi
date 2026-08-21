@@ -84,6 +84,24 @@ El problema permitió transformar una forma de trabajo inicialmente orientada a 
 
 
 ## Aprendizajes
+El desarrollo del proyecto permitió obtener aprendizajes que pueden aplicarse a futuros trabajos de análisis de datos.
+
+**1. Preparar los datos antes de visualizar.**
+Antes de construir gráficos o indicadores es necesario revisar la calidad y estructura de los datos que serán utilizados.
+
+**2. Construir un modelo sólido.**
+Las relaciones entre las tablas y una estructura temporal adecuada, como la tabla calendario, son fundamentales para obtener análisis consistentes.
+
+**3. Comprender DAX en lugar de memorizar fórmulas.**
+Uno de los aprendizajes más importantes fue entender qué calcula cada medida, qué datos utiliza y cómo responde al contexto del análisis. Esto permite detectar errores y adaptar los cálculos a nuevos requerimientos.
+
+**4. Validar antes de avanzar.**
+Comprobar los resultados después de cada etapa permite detectar problemas de manera temprana y reducir el retrabajo.
+
+**5. Pensar primero en la necesidad de información.**
+Una visualización no debe incorporarse solamente porque resulte atractiva. Cada indicador o gráfico debe responder a una pregunta o necesidad concreta de análisis.
+
+En conjunto, estos aprendizajes permitieron comprender que desarrollar un dashboard implica mucho más que crear visualizaciones: requiere preparar los datos, modelarlos correctamente, construir cálculos confiables y comunicar los resultados de manera clara.
 
 ## Evidencia de control de versiones
 
