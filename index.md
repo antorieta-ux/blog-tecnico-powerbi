@@ -107,4 +107,15 @@ En conjunto, estos aprendizajes permitieron comprender que desarrollar un dashbo
 
 ## Reflexión sobre feedback radicalmente sincero
 
+Durante la evaluación del proyecto recibí un feedback que destacó como fortalezas la limpieza y el modelado de los datos, la documentación del proceso de ETL mediante Power Query, el cumplimiento de las visualizaciones solicitadas y la implementación de funcionalidades como tooltips personalizados.
+
+Al mismo tiempo, se señalaron oportunidades concretas de mejora. Entre ellas, incorporar en la documentación una captura de la configuración utilizada para el formato condicional, continuar profundizando en DAX mediante cálculos de inteligencia de tiempo y practicar la creación de botones de navegación entre páginas para mejorar la experiencia del usuario.
+
+Este feedback me permitió comprender que un proyecto no debe evaluarse solamente por el resultado visual final. **También es importante documentar y evidenciar el proceso técnico utilizado para llegar a ese resultado.** Por ejemplo, aunque el formato condicional estuviera correctamente implementado, documentar su configuración habría permitido demostrar con mayor claridad cómo fue construido.
+
+La devolución también me permitió identificar próximos objetivos de aprendizaje, especialmente profundizar en DAX y mejorar la navegación y experiencia de usuario de futuros dashboards.
+
+Considero que este feedback fue útil porque combinó el reconocimiento de los aspectos logrados con observaciones específicas y aplicables. En lugar de interpretar los puntos de mejora como una crítica al trabajo realizado, los tomé como información concreta para continuar mejorando mi forma de desarrollar y documentar futuros proyectos.
+
+
 ## Checklist de entrega
