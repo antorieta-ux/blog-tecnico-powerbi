@@ -119,7 +119,7 @@ De esta manera, cada modificación relevante quedó registrada y puede ser consu
 ### Enlaces de evidencia
 
 - [Pull Request #1 - Reflexión sobre feedback]
-https://github.com/antorieta-ux/blog-tecnico-powerbi/pulls?q=is%3Apr+is%3Aclosed
+https://github.com/antorieta-ux/blog-tecnico-powerbi/pull/1
 
 ## Reflexión sobre feedback radicalmente sincero
 
