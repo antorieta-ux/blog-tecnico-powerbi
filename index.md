@@ -118,9 +118,10 @@ De esta manera, cada modificación relevante quedó registrada y puede ser consu
 
 ### Enlaces de evidencia
 
-- [Pull Request #1 - Reflexión sobre feedback]
-https://github.com/antorieta-ux/blog-tecnico-powerbi/pull/1
+- [Pull Request #1 - Reflexión sobre feedback](https://github.com/antorieta-ux/blog-tecnico-powerbi/pull/1)
+- [Commit - Análisis post-mortem](https://github.com/antorieta-ux/blog-tecnico-powerbi/commit/51153a817a82b766d13664b474c7341ebc447a5e)
 
+  
 ## Reflexión sobre feedback radicalmente sincero
 
 Durante la evaluación del proyecto recibí un feedback que destacó como fortalezas la limpieza y el modelado de los datos, la documentación del proceso de ETL mediante Power Query, el cumplimiento de las visualizaciones solicitadas y la implementación de funcionalidades como tooltips personalizados.
