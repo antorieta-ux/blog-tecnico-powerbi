@@ -104,6 +104,22 @@ Una visualización no debe incorporarse solamente porque resulte atractiva. Cada
 En conjunto, estos aprendizajes permitieron comprender que desarrollar un dashboard implica mucho más que crear visualizaciones: requiere preparar los datos, modelarlos correctamente, construir cálculos confiables y comunicar los resultados de manera clara.
 
 ## Evidencia de control de versiones
+El desarrollo y la documentación de este proyecto fueron gestionados mediante GitHub, utilizando control de versiones para registrar de manera progresiva los cambios realizados.
+
+La entrada del blog fue construida mediante diferentes commits, separando la incorporación del contexto, los problemas identificados, las acciones realizadas, el análisis post-mortem y los aprendizajes. Esto permitió mantener un historial claro de la evolución de la documentación.
+
+Además, para incorporar la reflexión sobre el feedback recibido se creó una rama independiente denominada feature-feedback-reflection. El cambio fue registrado mediante un commit y posteriormente integrado a la rama principal mediante un Pull Request.
+
+Este flujo permitió aplicar una práctica habitual de control de versiones:
+
+Rama → Cambio → Commit → Pull Request → Revisión → Merge
+
+De esta manera, cada modificación relevante quedó registrada y puede ser consultada posteriormente, facilitando la trazabilidad del proyecto.
+
+### Enlaces de evidencia
+
+- [Pull Request #1 - Reflexión sobre feedback]
+https://github.com/antorieta-ux/blog-tecnico-powerbi/pulls?q=is%3Apr+is%3Aclosed
 
 ## Reflexión sobre feedback radicalmente sincero
 
